@@ -1,8 +1,8 @@
-# 🔐 FINAL CIPHER CHALLENGE 🔐
+# 🔐 WELCOME CLASSICALMUSICHUBBS FINEST YOU HAVE MADE IT THIS FAR 🔐
 
 ## 🎮 Welcome, Code Breakers! 🎮
 
-Congratulations on making it this far! Your final challenge requires you to run a Python script that will generate a QR code leading to the last clue.
+Congratulations on making it this far! YOUR challenge requires you to run a Python script that will generate a QR code leading to the last clue.
 
 > **DON'T WORRY!** Even if you've never coded before, you can do this! Just follow these steps exactly as written.
 
@@ -220,6 +220,6 @@ python3 generate_qr.py
 
 ## 🏆 CONGRATULATIONS! 🏆
 
-You've completed not just a cipher challenge but also your first programming task! The URL will reveal the final password location. 
+You've completed not just a cipher challenge but also your first programming task! The URL will reveal the next step. 
 
 Good luck, and may the best code breaker win! 🎮🔐🎯
