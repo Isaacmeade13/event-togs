@@ -136,7 +136,12 @@ def generate_qr_code(data):
     # Save the image
     img.save("final_clue_qr.png")
     print("QR code generated! Open the file 'final_clue_qr.png' to scan it.")
-    print("Scan the QR code with your phone to reveal the final destination of this challenge.")
+    print("Scan the QR code with your phone to reveal the final password location.")
+    print("\n*** IMPORTANT FINAL STEP ***")
+    print("To complete the challenge, you must type in the main chat channel:")
+    print("'yuja password: THE_PASSWORD'")
+    print("Replace THE_PASSWORD with the actual password you find from the QR code.")
+    print("Good luck!")
 
 if __name__ == "__main__":
     print("Starting the final stage of the Cipher Challenge...")
